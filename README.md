@@ -1,9 +1,9 @@
 # ZadanieTestowe
 
 #### Kirill Suranov
+##### suranov123w@gmail.com
 
-##### Dla uruchomienia programu trzeba zainstalować pakiety z npm
-
+##### Aby uruchomić program trzeba zainstalować pakiety z npm
 ```
 npm install
 ```
